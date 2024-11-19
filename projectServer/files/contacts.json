@@ -1,0 +1,7 @@
+{
+  "contacts": [
+    { "name": "Rotem", "number": "0512345678", "age": 18, "id": 1 },
+    { "name": "Shirel", "number": "0512345678", "age": 18, "id": 2 },
+    { "name": "Dor", "number": "0512345678", "age": 19, "id": 3 }
+  ]
+}

@@ -1,0 +1,22 @@
+OUR SHOPS
+
+shop: Renuar
+type: Clothes
+
+shop: H&M
+type: Clothes
+
+shop: Pull & Bear
+type: Clothes
+
+shop: Twenty4seven
+type: Clothes
+
+shop: Zara
+type: Clothes
+
+shop: Hobbie
+type: Art
+
+shop: Plastelina
+type: Art

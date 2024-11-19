@@ -1,0 +1,33 @@
+OUR PEOPLE
+
+name: Eliyan
+number: 0512345678
+age: 19
+
+name: Noga
+number: 0512345678
+age: 18
+
+name: Rotem
+number: 0512345678
+age: 18
+
+name: Shirel
+number: 0512345678
+age: 18
+
+name: Dor
+number: 0512345678
+age: 19
+
+name: Moria
+number: 0512345678
+age: 18
+
+name: Ram
+number: 0512345678
+age: 19
+
+name: Yair
+number: 0512345678
+age: 19
